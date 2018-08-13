@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-# Multibody simulation of the solar system
+# Multibody simulation of the solar system by Dr. Fayyaz Minhas (http://faculty.pieas.edu.pk/fayyaz/)
+# Adapted from: http://fiftyexamples.readthedocs.io/en/latest/gravity.html
 import math
 from turtle import *
 
